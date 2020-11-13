@@ -1,0 +1,11 @@
+{
+	"sources": [
+		{
+			"id": "0",
+			"ip": "127.0.0.1",
+			"port": "5559",
+			"show_logs": "false",
+			"custom_subject_name": ""
+		}
+	]
+}
