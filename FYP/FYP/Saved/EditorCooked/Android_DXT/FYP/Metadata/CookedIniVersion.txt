@@ -1718,6 +1718,7 @@ Windows.Game:/Script/EngineSettings.GeneralProjectSettings:SupportContact:0=
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:MinWindowWidth:0=16
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:MinWindowHeight:0=16
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectID:0=810C1B9447BE59AAC0703F835F91553A
+Windows.Game:/Script/EngineSettings.GeneralProjectSettings:bShouldWindowPreserveAspectRatio:0=False
 Windows.Game:/Script/Engine.HUD:DebugDisplay:0=AI
 Windows.Game:/Script/Engine.PlayerController:InputYawScale:0=2.5
 Windows.Game:/Script/Engine.PlayerController:InputPitchScale:0=-2.5
